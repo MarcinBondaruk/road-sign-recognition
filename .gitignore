@@ -1,0 +1,5 @@
+.DS_Store
+data/assets/*
+data/processed/*
+data/raw/originals
+
